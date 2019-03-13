@@ -18,6 +18,7 @@ gem 'devise', '~> 4.6', '>= 4.6.1'
 gem 'twitter-bootstrap-rails', '~> 4.0'
 gem 'devise-bootstrap-views', '~> 1.1'
 gem 'jquery-rails', '~> 4.3', '>= 4.3.3'
+gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.4'
 
 # Use CoffeeScript for .coffee assets and views
 gem 'coffee-rails', '~> 4.2'
